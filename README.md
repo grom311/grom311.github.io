@@ -1,6 +1,6 @@
 # Personal Website
 
-Welcome to my [personal website](https://mldangelo.com)! This is an [MIT licensed](https://github.com/mldangelo/personal-site/blob/main/LICENSE) Next.js-based Jamstack application. It offers a simple interface, easy modifications, static export capabilities, and free automatic deployments via [GitHub Pages](https://pages.github.com/).
+Welcome to my [personal website](https://mldangelo.com)! This is an [MIT licensed](https://github.com/grom311/personal-site/blob/main/LICENSE) Next.js-based Jamstack application. It offers a simple interface, easy modifications, static export capabilities, and free automatic deployments via [GitHub Pages](https://pages.github.com/).
 
 ## 🚀 Features
 
@@ -27,7 +27,7 @@ Ensure you have [node](https://nodejs.org/) >= v20. Optionally, use [nvm](https:
 1. Clone the repository:
 
    ```bash
-   git clone git://github.com/mldangelo/personal-site.git
+   git clone git://github.com/grom311/personal-site.git
    cd personal-site
    ```
 
@@ -112,4 +112,4 @@ npm test              # Run Jest tests
 
 ## 📝 License
 
-[MIT](https://github.com/mldangelo/personal-site/blob/main/LICENSE)
+[MIT](https://github.com/grom311/personal-site/blob/main/LICENSE)

@@ -7,7 +7,7 @@ import PageWrapper from './components/PageWrapper';
 
 export const metadata: Metadata = {
   description:
-    "Michael D'Angelo is a data scientist, machine learning engineer, and full-stack engineer.",
+    "Sergei Loktysh is a data scientist, machine learning engineer, and full-stack engineer.",
 };
 
 export default function HomePage() {
@@ -34,7 +34,7 @@ export default function HomePage() {
         </p>
         <p>
           {' '}
-          Source available <a href="https://github.com/mldangelo/personal-site">here</a>.
+          Source available <a href="https://github.com/grom311/personal-site">here</a>.
         </p>
       </article>
     </PageWrapper>
