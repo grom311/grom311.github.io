@@ -35,7 +35,7 @@ const data: StatData[] = [
     label: 'Countries visited',
     value: 10,
     // link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
-    link: ''
+    link: '',
   },
   {
     key: 'location',

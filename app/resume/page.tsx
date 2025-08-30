@@ -14,8 +14,7 @@ import work from '@/data/resume/work';
 
 export const metadata: Metadata = {
   title: 'Resume',
-  description:
-    "Sergei Loktysh Resume.",
+  description: 'Sergei Loktysh Resume.',
 };
 
 const sections = [

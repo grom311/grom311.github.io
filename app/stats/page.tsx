@@ -10,7 +10,7 @@ import PageWrapper from '../components/PageWrapper';
 
 export const metadata: Metadata = {
   title: 'Stats',
-  description: "Some statistics about Sergei Loktysh and sloktysh.com",
+  description: 'Some statistics about Sergei Loktysh and sloktysh.com',
 };
 
 export default function StatsPage() {
