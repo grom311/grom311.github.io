@@ -44,7 +44,8 @@ build/
 
 # Next.js
 .next/
-out/
+
+# out/
 .swc/
 next-env.d.ts
 tsconfig.tsbuildinfo
