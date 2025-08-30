@@ -1,11 +1,11 @@
 {
-  "name": "personal-site",
+  "name": "grom311.github.io",
   "version": "4.0.0",
-  "homepage": "https://grom311.github.io/personal-site/",
+  "homepage": "https://grom311.github.io/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grom311/personal-site.git"
+    "url": "https://github.com/grom311/grom311.github.io.git"
   },
   "engines": {
     "node": ">=20.x"
